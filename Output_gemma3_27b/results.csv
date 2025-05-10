@@ -1,0 +1,343 @@
+Filename,Extract,Status,Sys
+sample_2790.txt,fever,negative,Constitutional Symptoms
+sample_2790.txt,chills,negative,Constitutional Symptoms
+sample_2790.txt,shakes,negative,Neurological
+sample_2790.txt,tremors,negative,Neurological
+sample_2790.txt,chest pain,negative,Cardiovascular
+sample_2790.txt,palpitations,negative,Cardiovascular
+sample_2790.txt,hemoptysis,negative,Respiratory
+sample_2790.txt,shortness of breath,negative,Respiratory
+sample_2790.txt,nausea,negative,Gastrointestinal
+sample_2790.txt,vomiting,negative,Gastrointestinal
+sample_2790.txt,diarrhea,negative,Gastrointestinal
+sample_2790.txt,constipation,negative,Gastrointestinal
+sample_2790.txt,hematemesis,negative,Gastrointestinal
+sample_2790.txt,numbness and tingling,positive,Neurological
+sample_2790.txt,dizziness,positive,Neurological
+sample_2790.txt,carpal tunnel syndrome,positive,Musculoskeletal
+sample_2790.txt,urological symptoms,negative,Genitourinary
+sample_2790.txt,dysuria,negative,Genitourinary
+sample_2790.txt,frequency,negative,Constitutional Symptoms
+sample_2790.txt,incomplete bladder emptying,negative,Genitourinary
+sample_2790.txt,voiding difficulties,negative,Genitourinary
+sample_2790.txt,seizure disorders,negative,Neurological
+sample_226.txt,nausea,positive,Gastrointestinal
+sample_226.txt,vomiting,positive,Gastrointestinal
+sample_226.txt,low appetite,positive,Gastrointestinal
+sample_226.txt,fevers,negative,Constitutional Symptoms
+sample_226.txt,chills,negative,Constitutional Symptoms
+sample_226.txt,malaise,negative,Constitutional Symptoms
+sample_226.txt,headache,negative,Neurological
+sample_226.txt,congestion,negative,Respiratory
+sample_226.txt,cold,negative,Respiratory
+sample_226.txt,coughing,negative,Respiratory
+sample_226.txt,sore throat,negative,ENT
+sample_226.txt,chest pain,negative,Cardiovascular
+sample_226.txt,troubled breathing,negative,Respiratory
+sample_226.txt,abdominal symptoms,positive,Gastrointestinal
+sample_226.txt,abdominal pain,negative,Gastrointestinal
+sample_226.txt,urinary symptoms,negative,Genitourinary
+sample_226.txt,darkening of the skin,negative,Integumentary/Breast
+sample_226.txt,darkening of the eyes,negative,Eyes
+sample_226.txt,yellowing of the urine,negative,Genitourinary
+sample_226.txt,rash,negative,Integumentary/Breast
+sample_226.txt,local infection,negative,Integumentary/Breast
+sample_666.txt,Review of systems,negative,None
+sample_2780.txt,chest pain,negative,Cardiovascular
+sample_2780.txt,exertional shortness of breath,positive,Respiratory
+sample_2780.txt,GI problems,negative,Gastrointestinal
+sample_2780.txt,frequent urination,positive,Genitourinary
+sample_2780.txt,bleeding disorders,negative,Hematologic/Lymphatic
+sample_2780.txt,bleeding history,negative,Hematologic/Lymphatic
+sample_2210.txt,history of present illness,unremarkable,None
+sample_394.txt,suicidal thoughts,positive,Psychiatric
+sample_394.txt,chest pain,negative,Cardiovascular
+sample_394.txt,shortness of breath,negative,Respiratory
+sample_394.txt,nausea,negative,Gastrointestinal
+sample_394.txt,vomiting,negative,Gastrointestinal
+sample_394.txt,numbness,negative,Neurological
+sample_394.txt,weakness,negative,Constitutional Symptoms
+sample_394.txt,tingling,negative,Neurological
+sample_225.txt,focal left eye pain,positive,Eyes
+sample_225.txt,visual acuity,negative,Eyes
+sample_225.txt,photophobia,negative,Eyes
+sample_225.txt,cardiac,negative,Cardiovascular
+sample_225.txt,pulmonary,negative,Respiratory
+sample_225.txt,GI,negative,Gastrointestinal
+sample_225.txt,GU,negative,Genitourinary
+sample_225.txt,neurologic,negative,Neurological
+sample_225.txt,musculoskeletal,negative,Musculoskeletal
+sample_225.txt,endocrine,negative,Endocrine
+sample_225.txt,immunologic,negative,Allergic/Immunologic
+sample_96.txt,REVIEW OF SYSTEMS,negative,None
+sample_377.txt,hearing loss,positive,ENT
+sample_377.txt,swallowing,negative,Gastrointestinal
+sample_377.txt,shortness of breath,negative,Respiratory
+sample_377.txt,chronic cough,positive,Respiratory
+sample_377.txt,bowel movements,normal,Gastrointestinal
+sample_377.txt,black or bloody stools,negative,Gastrointestinal
+sample_377.txt,diarrhea,negative,Gastrointestinal
+sample_377.txt,constipation,negative,Gastrointestinal
+sample_377.txt,blood in urine,negative,Genitourinary
+sample_377.txt,urinary problems,negative,Genitourinary
+sample_377.txt,edema,negative,Cardiovascular
+sample_377.txt,lower extremity numbness,negative,Neurological
+sample_377.txt,lower extremity tingling,negative,Neurological
+sample_1505.txt,fever,negative,Constitutional Symptoms
+sample_1505.txt,cough,negative,Respiratory
+sample_1505.txt,shortness of breath,negative,Respiratory
+sample_1505.txt,chest pain,negative,Cardiovascular
+sample_1505.txt,nausea,negative,Gastrointestinal
+sample_1505.txt,vomiting,negative,Gastrointestinal
+sample_1505.txt,GI bleed,negative,Gastrointestinal
+sample_1505.txt,dysuria,negative,Genitourinary
+sample_1505.txt,hematuria,negative,Genitourinary
+sample_1505.txt,diabetes,negative,Endocrine
+sample_1505.txt,thyroid problems,negative,Endocrine
+sample_1505.txt,CVA,negative,Neurological
+sample_1505.txt,TIA,negative,Neurological
+sample_1419.txt,seizure disorder,negative,Neurological
+sample_1419.txt,chest pain,negative,Cardiovascular
+sample_1419.txt,shortness of breath,negative,Respiratory
+sample_1419.txt,dysuria,negative,Genitourinary
+sample_1419.txt,burning,negative,Integumentary/Breast
+sample_1419.txt,pain,negative,Musculoskeletal
+sample_1419.txt,nausea,positive,Gastrointestinal
+sample_1419.txt,vomiting,positive,Gastrointestinal
+sample_1248.txt,diarrhea,positive,Gastrointestinal
+sample_223.txt,shoulder pain,positive,Musculoskeletal
+sample_223.txt,cervical radiculopathies,negative,Neurological
+sample_223.txt,cardiac,negative,Cardiovascular
+sample_223.txt,pulmonary,negative,Respiratory
+sample_223.txt,GI,negative,Gastrointestinal
+sample_223.txt,GU,negative,Genitourinary
+sample_223.txt,neurologic,negative,Neurological
+sample_223.txt,musculoskeletal,negative,Musculoskeletal
+sample_223.txt,endocrine,negative,Endocrine
+sample_343.txt,fevers,negative,Constitutional Symptoms
+sample_343.txt,headaches,negative,Neurological
+sample_343.txt,shortness of breath,negative,Respiratory
+sample_343.txt,chest pain,negative,Cardiovascular
+sample_343.txt,tightness,negative,Musculoskeletal
+sample_343.txt,abdominal pain,negative,Gastrointestinal
+sample_343.txt,heartburn,negative,Gastrointestinal
+sample_343.txt,constipation,negative,Gastrointestinal
+sample_343.txt,diarrhea,negative,Gastrointestinal
+sample_343.txt,dysuria,negative,Genitourinary
+sample_343.txt,stress incontinence,positive,Genitourinary
+sample_343.txt,muscle pain,negative,Musculoskeletal
+sample_343.txt,joint pain,negative,Musculoskeletal
+sample_343.txt,skin,negative,Integumentary/Breast
+sample_343.txt,polyphagia,negative,Endocrine
+sample_343.txt,polydipsia,negative,Endocrine
+sample_343.txt,polyuria,negative,Genitourinary
+sample_391.txt,Constitutional,negative,Constitutional Symptoms
+sample_391.txt,Eyes,negative,Eyes
+sample_391.txt,ENT/Mouth,negative,ENT
+sample_391.txt,Cardiovascular,negative,Cardiovascular
+sample_391.txt,Respiratory,negative,Respiratory
+sample_391.txt,GI,negative,Gastrointestinal
+sample_391.txt,GU,negative,Genitourinary
+sample_391.txt,Musculoskeletal,negative,Musculoskeletal
+sample_391.txt,Skin/Breasts,negative,Integumentary/Breast
+sample_391.txt,Neurologic,negative,Neurological
+sample_391.txt,Psychiatric,negative,Psychiatric
+sample_391.txt,Endocrine,negative,Endocrine
+sample_391.txt,Heme/Lymph,negative,Hematologic/Lymphatic
+sample_391.txt,Allergies/Immune,negative,Allergic/Immunologic
+sample_476.txt,chest pain,negative,Cardiovascular
+sample_476.txt,palpitations,negative,Cardiovascular
+sample_476.txt,shortness of breath,negative,Respiratory
+sample_476.txt,cough,negative,Respiratory
+sample_476.txt,wheezing,negative,Respiratory
+sample_476.txt,nausea,negative,Gastrointestinal
+sample_476.txt,vomiting,negative,Gastrointestinal
+sample_476.txt,diarrhea,negative,Gastrointestinal
+sample_476.txt,nocturia,negative,Genitourinary
+sample_476.txt,gross hematuria,negative,Genitourinary
+sample_476.txt,CVA,positive,Neurological
+sample_687.txt,ROS,negative,None
+sample_2275.txt,review of systems,negative,None
+sample_398.txt,Dyspnea on exertion,positive,Respiratory
+sample_398.txt,chest pain,negative,Cardiovascular
+sample_398.txt,tightness,negative,Musculoskeletal
+sample_398.txt,fever,negative,Constitutional Symptoms
+sample_398.txt,chills,negative,Constitutional Symptoms
+sample_398.txt,sweats,negative,Constitutional Symptoms
+sample_398.txt,cough,negative,Respiratory
+sample_398.txt,hemoptysis,negative,Respiratory
+sample_398.txt,wheeze,negative,Respiratory
+sample_398.txt,lower extremity swelling,negative,Musculoskeletal
+sample_378.txt,As above in HPI,positive,None
+sample_392.txt,REVIEW OF SYSTEMS,positive,None
+sample_402.txt,nausea,negative,Gastrointestinal
+sample_402.txt,vomiting,negative,Gastrointestinal
+sample_402.txt,diarrhea,negative,Gastrointestinal
+sample_576.txt,fever,negative,Constitutional Symptoms
+sample_576.txt,chills,negative,Constitutional Symptoms
+sample_576.txt,ulcers,negative,Gastrointestinal
+sample_576.txt,liver disease,negative,Gastrointestinal
+sample_576.txt,gallstones,negative,Gastrointestinal
+sample_1592.txt,weakness,negative,Constitutional Symptoms
+sample_1592.txt,fatigue,negative,Constitutional Symptoms
+sample_1592.txt,tiredness,negative,Constitutional Symptoms
+sample_1592.txt,cataract,negative,Eyes
+sample_1592.txt,glaucoma,negative,Eyes
+sample_1592.txt,congestive heart failure,negative,Cardiovascular
+sample_1592.txt,arrhythmias,negative,Cardiovascular
+sample_1592.txt,pneumonia,negative,Respiratory
+sample_1592.txt,valley fever,negative,Respiratory
+sample_1592.txt,nausea,negative,Gastrointestinal
+sample_1592.txt,vomiting,negative,Gastrointestinal
+sample_1592.txt,hematemesis,negative,Gastrointestinal
+sample_1592.txt,melena,negative,Gastrointestinal
+sample_1592.txt,frequency,negative,Constitutional Symptoms
+sample_1592.txt,urgency,negative,Psychiatric
+sample_1592.txt,Arthritis,positive,Musculoskeletal
+sample_1592.txt,muscle weakness,positive,Musculoskeletal
+sample_1592.txt,TIA,negative,Neurological
+sample_1592.txt,CVA,negative,Neurological
+sample_1592.txt,seizure disorder,negative,Neurological
+sample_1252.txt,fever,negative,Constitutional Symptoms
+sample_1252.txt,chills,negative,Constitutional Symptoms
+sample_1252.txt,sinus congestion,negative,ENT
+sample_1252.txt,nasal drainage,negative,ENT
+sample_1252.txt,cough,negative,Respiratory
+sample_1252.txt,cold symptoms,negative,Respiratory
+sample_1252.txt,head trauma,negative,Neurological
+sample_1252.txt,nausea,positive,Gastrointestinal
+sample_1252.txt,vomiting,negative,Gastrointestinal
+sample_1252.txt,diarrhea,negative,Gastrointestinal
+sample_380.txt,HPI,positive,None
+sample_388.txt,sore throat,negative,ENT
+sample_388.txt,earache,negative,ENT
+sample_388.txt,cough,negative,Respiratory
+sample_2746.txt,fatigue,positive,Constitutional Symptoms
+sample_2746.txt,weakness,positive,Constitutional Symptoms
+sample_2746.txt,fever,negative,Constitutional Symptoms
+sample_2746.txt,chills,negative,Constitutional Symptoms
+sample_2746.txt,weight change,negative,Constitutional Symptoms
+sample_2746.txt,headache,negative,Neurological
+sample_2746.txt,neck pain,negative,Musculoskeletal
+sample_2746.txt,rhinorrhea,negative,ENT
+sample_2746.txt,sinus congestion,negative,ENT
+sample_2746.txt,sore throat,negative,ENT
+sample_2746.txt,vision change,negative,Eyes
+sample_2746.txt,hearing change,negative,ENT
+sample_2746.txt,eye pain,negative,Eyes
+sample_2746.txt,ear pain,negative,ENT
+sample_2746.txt,chest pain,negative,Cardiovascular
+sample_2746.txt,shortness of breath,positive,Respiratory
+sample_2746.txt,cough,negative,Respiratory
+sample_2746.txt,wheeze,positive,Respiratory
+sample_2746.txt,abdominal pain,negative,Gastrointestinal
+sample_2746.txt,nausea,negative,Gastrointestinal
+sample_2746.txt,vomiting,negative,Gastrointestinal
+sample_2746.txt,change in the bowel movements,negative,Gastrointestinal
+sample_2746.txt,diarrhea,negative,Gastrointestinal
+sample_2746.txt,constipation,negative,Gastrointestinal
+sample_2746.txt,melena,negative,Gastrointestinal
+sample_2746.txt,hematochezia,negative,Gastrointestinal
+sample_2746.txt,dysuria,negative,Genitourinary
+sample_2746.txt,hematuria,negative,Genitourinary
+sample_2746.txt,urgency,negative,Psychiatric
+sample_2746.txt,frequency,negative,Constitutional Symptoms
+sample_2746.txt,back pain,negative,Musculoskeletal
+sample_2746.txt,muscle aches,negative,Musculoskeletal
+sample_2746.txt,joint aches,negative,Musculoskeletal
+sample_2746.txt,rashes,negative,Integumentary/Breast
+sample_2746.txt,lesions,negative,Integumentary/Breast
+sample_2746.txt,dizziness,positive,Neurological
+sample_2746.txt,syncope,negative,Cardiovascular
+sample_2746.txt,near-syncope,negative,Cardiovascular
+sample_2746.txt,focal weakness,negative,Neurological
+sample_2746.txt,numbness,negative,Neurological
+sample_2746.txt,speech change,negative,Neurological
+sample_2746.txt,difficulty with ambulation,negative,Musculoskeletal
+sample_2746.txt,depression,negative,Psychiatric
+sample_2746.txt,heat intolerance,negative,Endocrine
+sample_2746.txt,cold intolerance,negative,Endocrine
+sample_393.txt,fever,negative,Constitutional Symptoms
+sample_393.txt,chills,negative,Constitutional Symptoms
+sample_393.txt,night sweats,negative,Constitutional Symptoms
+sample_393.txt,blindness,negative,Eyes
+sample_393.txt,diplopia,negative,Eyes
+sample_393.txt,loss of vision,negative,Eyes
+sample_393.txt,hearing changes,negative,ENT
+sample_393.txt,ear problems,negative,ENT
+sample_393.txt,swallowing problems,negative,Gastrointestinal
+sample_393.txt,mouth lesions,negative,ENT
+sample_393.txt,Hypothyroidism,positive,Endocrine
+sample_393.txt,polyuria,negative,Genitourinary
+sample_393.txt,polydipsia,negative,Endocrine
+sample_393.txt,shortness of breath,negative,Respiratory
+sample_393.txt,cough,negative,Respiratory
+sample_393.txt,sputum production,negative,Respiratory
+sample_393.txt,hemoptysis,negative,Respiratory
+sample_393.txt,breathing problems,negative,Respiratory
+sample_393.txt,chest pain,negative,Cardiovascular
+sample_393.txt,chest discomfort,negative,Cardiovascular
+sample_393.txt,paroxysmal nocturnal dyspnea,negative,Respiratory
+sample_393.txt,orthopnea,negative,Respiratory
+sample_393.txt,palpitations,negative,Cardiovascular
+sample_393.txt,heart attacks,negative,Cardiovascular
+sample_393.txt,diarrhea,positive,Gastrointestinal
+sample_393.txt,Clostridium difficile colitis,positive,Gastrointestinal
+sample_393.txt,irritable bowel syndrome,positive,Gastrointestinal
+sample_393.txt,bowel abnormalities,positive,Gastrointestinal
+sample_393.txt,urinary problems,negative,Genitourinary
+sample_393.txt,dysuria,negative,Genitourinary
+sample_393.txt,polyuria,negative,Genitourinary
+sample_393.txt,polydipsia,negative,Endocrine
+sample_393.txt,kidney stones,negative,Genitourinary
+sample_393.txt,recent infections,negative,Constitutional Symptoms
+sample_393.txt,vaginal bleeding,negative,Genitourinary
+sample_393.txt,discharge,negative,ENT
+sample_393.txt,anemia,positive,Hematologic/Lymphatic
+sample_393.txt,blackouts,negative,Neurological
+sample_393.txt,convulsions,negative,Neurological
+sample_393.txt,seizures,negative,Neurological
+sample_393.txt,paralysis,negative,Neurological
+sample_393.txt,strokes,negative,Neurological
+sample_393.txt,headaches,negative,Neurological
+sample_1921.txt,febrile illnesses,negative,Constitutional Symptoms
+sample_1921.txt,chest pains,negative,Cardiovascular
+sample_1921.txt,shortness of breath,negative,Respiratory
+sample_1495.txt,pain,negative,Musculoskeletal
+sample_1495.txt,headache,negative,Neurological
+sample_1495.txt,blurred vision,negative,Eyes
+sample_1495.txt,chest pain,negative,Cardiovascular
+sample_1495.txt,shortness of breath,negative,Respiratory
+sample_1495.txt,nausea,negative,Gastrointestinal
+sample_1495.txt,vomiting,negative,Gastrointestinal
+sample_1152.txt,REVIEW OF SYSTEMS,negative,None
+sample_942.txt,ROS,negative,None
+sample_2789.txt,migraine headaches,positive,Neurological
+sample_2789.txt,floaters,positive,Eyes
+sample_2789.txt,temperature,positive,Constitutional Symptoms
+sample_2789.txt,cough,positive,Respiratory
+sample_2789.txt,scratchy throat,positive,ENT
+sample_2789.txt,right calf pain,positive,Musculoskeletal
+sample_2789.txt,Homans sign,negative,Musculoskeletal
+sample_2789.txt,chest pain,negative,Cardiovascular
+sample_2789.txt,palpitation,negative,Cardiovascular
+sample_2789.txt,pain in the upper neck,negative,Musculoskeletal
+sample_2789.txt,difficulty breathing,negative,Respiratory
+sample_2789.txt,shortness of breath,negative,Respiratory
+sample_2789.txt,hemoptysis,negative,Respiratory
+sample_2789.txt,nausea,negative,Gastrointestinal
+sample_2789.txt,vomiting,negative,Gastrointestinal
+sample_2789.txt,diarrhea,negative,Gastrointestinal
+sample_2789.txt,constipated,positive,Gastrointestinal
+sample_2789.txt,dysuria,negative,Genitourinary
+sample_2789.txt,urinary frequency,negative,Genitourinary
+sample_2789.txt,incomplete bladder emptying,negative,Genitourinary
+sample_2789.txt,voiding difficulties,negative,Genitourinary
+sample_365.txt,allergies,positive,Allergic/Immunologic
+sample_365.txt,sneezing,positive,ENT
+sample_365.txt,sore throat,positive,ENT
+sample_365.txt,cough,positive,Respiratory
+sample_365.txt,HEENT,positive,ENT
+sample_365.txt,Pulmonary,positive,Respiratory
+sample_365.txt,General,negative,None
+sample_664.txt,REVIEW OF SYSTEMS,negative,None
